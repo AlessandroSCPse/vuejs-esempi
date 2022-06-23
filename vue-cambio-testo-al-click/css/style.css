@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    padding: 30px;
+}
+
+.red {
+    color: red;
+}
+.blue {
+    color: blue;
+}
+
